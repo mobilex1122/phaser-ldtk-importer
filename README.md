@@ -2,6 +2,10 @@
 
 [TAIGA](https://tree.taiga.io/project/mobilex1122-phaser-ldtk-importer) | [NPM](https://www.npmjs.com/~mobilex1122)
 
+# SEARCHING FOR MAINTAINERS!!
+This project is currently only maintained by me and I don't know if I will be able to finish it.
+If you have a knowlage of JavaScript and are willing to help please do so. Thanks
+
 ## About
 This is a try to create [LDtk](https://ldtk.io/) importer for [Phaser Game engine](https://phaser.io/).
 
