@@ -1,5 +1,5 @@
 export default class {
-    sayHi() {
-        console.log("HI")
+    constructor() {
+        console.log("Hello World")
     }
 }

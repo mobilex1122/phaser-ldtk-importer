@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mobilex1122/phaser-ldtk-importer/issues"
   },
-  "homepage": "https://github.com/mobilex1122/phaser-ldtk-importer#readme"
+  "homepage": "https://github.com/mobilex1122/phaser-ldtk-importer#readme",
+  "dependencies": {
+    "phaser": "^3.80.1"
+  }
 }
