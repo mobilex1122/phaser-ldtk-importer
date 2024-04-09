@@ -1,6 +1,6 @@
 # LDtk Importer for Phaser (Alfa)
 
-[TAIGA](https://tree.taiga.io/project/mobilex1122-phaser-ldtk-importer) | [NPM](https://www.npmjs.com/~mobilex1122)
+[TAIGA](https://tree.taiga.io/project/mobilex1122-phaser-ldtk-importer) | [NPM](https://www.npmjs.com/package/phaser-ldtk-importer)
 
 # SEARCHING FOR MAINTAINERS!!
 This project is currently only maintained by me and I don't know if I will be able to finish it.
@@ -11,7 +11,7 @@ This is a try to create [LDtk](https://ldtk.io/) importer for [Phaser Game engin
 
 ## Download and use
 ### Stable
-Download not yet available. (Be ready for NPM release)
+Hello world available :)
 ### Beta
 NPM: `npm i github:mobilex1122/phaser-ldtk-importer`
 PNPM: `pnpm i github:mobilex1122/phaser-ldtk-importer`
