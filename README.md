@@ -6,7 +6,11 @@
 This is a try to create [LDtk](https://ldtk.io/) importer for [Phaser Game engine](https://phaser.io/).
 
 ## Download and use
+### Stable
 Download not yet available. (Be ready for NPM release)
+### Beta
+NPM: `npm i github:mobilex1122/phaser-ldtk-importer`
+PNPM: `pnpm i github:mobilex1122/phaser-ldtk-importer`
 
 ## Doc
 Documantation also not available right now.
