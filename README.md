@@ -14,6 +14,7 @@ This is a try to create [LDtk](https://ldtk.io/) importer for [Phaser Game engin
 Hello world available :)
 ### Beta
 NPM: `npm i github:mobilex1122/phaser-ldtk-importer`
+
 PNPM: `pnpm i github:mobilex1122/phaser-ldtk-importer`
 
 ## Doc
