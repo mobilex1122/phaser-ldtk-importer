@@ -1,6 +1,6 @@
 # LDtk Importer for Phaser (Alfa)
 
-[TAIGA](https://tree.taiga.io/project/mobilex1122-phaser-ldtk-importer) | [NPM](https://www.npmjs.com/package/phaser-ldtk-importer)
+[TAIGA](https://tree.taiga.io/project/mobilex1122-phaser-ldtk-importer) | [NPM](https://www.npmjs.com/package/phaser-ldtk-importer) | [WIKI](https://wiki.mobilex1122.eu/projects/phaser-ldtk-importer)
 
 # SEARCHING FOR MAINTAINERS!!
 This project is currently only maintained by me and I don't know if I will be able to finish it.
