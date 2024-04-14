@@ -23,5 +23,8 @@
   "homepage": "https://github.com/mobilex1122/phaser-ldtk-importer#readme",
   "dependencies": {
     "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0"
   }
 }
